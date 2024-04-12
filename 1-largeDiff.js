@@ -1,0 +1,1 @@
+javascript:document.querySelectorAll('.load-diff-button').forEach(btn => btn.click())

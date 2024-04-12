@@ -1,0 +1,7 @@
+javascript:(
+    () => {
+      console.log('O fácil fiz ontem');
+      console.log('O difícil faço hoje');
+      console.log('O impossível farei amanhã');
+  }
+)();
